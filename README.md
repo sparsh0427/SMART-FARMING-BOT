@@ -11,7 +11,7 @@ for furnishing agriculturists with data about harvest yields,
 precipitation, pest invasion and soil sustenance which are
 important to revenue generation and offer exact information
 which can be utilized to enhance cultivating procedures over
-time.
+time .
 
 Traditional strategies rely upon human power for lifting,
 dragging, weed control, harvesting. People are inclined to work
